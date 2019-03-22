@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-passport-local",
+  "version": "1.0.0",
+  "description": "To understanding passport authentication",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cubenuri/nodejs-passport-local.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cubenuri/nodejs-passport-local/issues"
+  },
+  "homepage": "https://github.com/cubenuri/nodejs-passport-local#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "connect": "^3.6.6",
+    "connect-flash": "^0.1.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "morgan": "^1.9.1",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "session": "^0.1.0"
+  }
+}
